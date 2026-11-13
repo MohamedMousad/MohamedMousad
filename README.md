@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d0dc4add-cad4-4715-abe7-bc0330b50646" width="100%" alt="Header" />
+  <img src="./assets/banner.jpg" width="100%" alt="Mohamed Mousad Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Mousad</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <b>3× ECPC Finalist · Clean Architecture · Scalable Systems</b>
+  <b>Backend · Distributed Systems · 3× ECPC Finalist</b>
 </p>
 
 <p align="center">
-  Building reliable backend systems with clean architecture and scalable solutions.
+  Building reliable, high-throughput systems with clean architecture and scalable solutions.
 </p>
 
 ---
@@ -20,22 +20,22 @@
 
 <table border="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <p>
-        <b>Mohamed here</b> — a Computer & Control Engineering graduate (<i>Honours, 87.5%</i>) and <b>3× ECPC Finalist</b> focused on backend development and distributed systems.
+        <b>Mohamed here</b> — a Computer & Control Engineering graduate (<i>Honours, 87.5%</i>) and <b>3× ECPC Finalist</b> focused on backend systems, distributed architectures, and real-time engineering.
       </p>
       <p>
-        I enjoy building scalable, production-ready APIs with <b>.NET (C#)</b> and continuously improving my understanding of real-world backend systems and high-throughput architectures.
+        I enjoy building scalable, production-ready APIs and real-time engines with <b>.NET (C#)</b>, <b>Clean Architecture</b>, <b>CQRS (MediatR)</b>, and <b>SignalR</b>.
       </p>
       <p>
-        Currently working with <b>ASP.NET Core, PostgreSQL, Redis, SignalR, and Docker</b>, while mentoring students at AASTMT and sharpening my problem-solving skills (<b>2,000+ problems solved</b> on Codeforces & LeetCode).
+        Currently engineering systems with <b>ASP.NET Core, PostgreSQL, Redis, Docker, Next.js, and LLMs</b>, backed by strong algorithmic foundations (<b>2,000+ problems solved</b> on Codeforces & LeetCode).
       </p>
       <p>
-        My goal is simple: write clean code, build reliable software, and engineer systems that stay fast under load.
+        My goal is simple: write clean code, design resilient architectures, and build software that stays fast under load.
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e" width="280" alt="Coding" />
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/about-visual.svg" width="340" alt="Mohamed Mousad Engineer Specs" />
     </td>
   </tr>
 </table>
@@ -93,5 +93,5 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMousad&theme=github-compact&color=0B7A69&point=10B981&area=true&hide_border=true&bg_color=0d1117" width="95%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedMousad&theme=github_dark" width="95%" alt="Contribution Activity Graph" />
 </p>
